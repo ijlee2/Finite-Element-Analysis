@@ -1,7 +1,7 @@
 # Finite Element Analysis
 Hi and welcome to the GitHub page for my Finite Element Analysis library.
 
-The code that I provide complement my teaching in finite element method.
+The code that I provide complement my teaching in computational mechanics.
 I hope that you find the library useful in learning finite element method
 and solving your own engineering problems.
 
