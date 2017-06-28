@@ -1,4 +1,4 @@
-# Finite-Element-Analysis
+# Finite Element Analysis
 Hi and welcome to the GitHub page for my Finite Element Analysis library.
 
 The code that I provide complement my teaching in finite element method.
